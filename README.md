@@ -1,18 +1,24 @@
 <div align="center">
-<img src="./Banner.png" align="center" style="width: 100%" />
+<img src="./assets/images/Banner.png" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Jefferson Camacho, a full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
-  
+## <div align="justify">I'm Jefferson Camacho, a full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
 
-- 🌱 I’m currently working on  e-commerce project  
+### <strong>🔗 About Me </strong>
+  
+- 🎓 MEng. Master's Degree in Automation and Industrial Computing
+- 📚 BSc. in Electronics and Telecomunications Engineering
+- 🖥️ <strong>FullStack Software Developer</strong> Passionate about javascript, SQL, Angular, and Node.js
+- 👨‍🏫 <strong>University Professor</strong> at National University of Loja
+- 👨‍💻 <strong>Associate Professor</strong> at Private Technical University of Loja
+- 🏅 <strong>Certificate AWS Practicioner</strong> by Amazon Web Services
   
 
 <br/>  
 
 
-## My Skill Set  
+### 🔗 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -68,6 +74,7 @@
 
 
 ## Connect with me  
+<br/>
 <div align="center">
 <a href="https://github.com/jfcamacho" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,18 +88,6 @@
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
@@ -107,4 +102,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
