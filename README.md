@@ -9,6 +9,7 @@
   
 - 🎓 MEng. Master's Degree in Automation and Industrial Computing
 - 📚 BSc. in Electronics and Telecomunications Engineering
+- 🖥️ <strong>BackEnd Software Developer</strong> DaCodes - Inter
 - 🖥️ <strong>FullStack Software Developer</strong> Passionate about javascript, SQL, Angular, and Node.js
 - 👨‍🏫 <strong>University Professor</strong> at National University of Loja
 - 👨‍💻 <strong>Associate Professor</strong> at Private Technical University of Loja
